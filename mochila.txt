@@ -1,0 +1,113 @@
+ conjunto inicial:           1           0           0           0           0           0           0           0           0           0           0           0           0           0           0
+ Peso máximo:   155.000000    
+ iteração:           1
+ Movimento:           1
+ Sequência:           0           0           0           0           0           0           0           0           0           0           0           0           0           0           0
+ Função:   0.00000000    
+ Movimento:           2
+ Sequência:           1           0           0           0           0           0           0           0           0           0           0           0           0           1           0
+ Função:   16.0000000    
+ Movimento:           3
+ Sequência:           1           1           0           0           0           0           0           0           0           0           0           0           0           0           0
+ Função:   15.0000000    
+ conjunto ótimo:           1           0           0           0           0           0           0           0           0           0           0           0           0           1           0
+ iteração:           2
+ Movimento:           1
+ Sequência:           1           0           0           0           0           0           0           0           0           0           0           1           0           1           0
+ Função:   33.0000000    
+ Movimento:           2
+ Sequência:           1           0           0           0           0           0           0           1           0           0           0           0           0           1           0
+ Função:   18.0000000    
+ Movimento:           3
+ Sequência:           1           0           0           0           0           0           0           0           1           0           0           0           0           1           0
+ Função:   18.0000000    
+ conjunto ótimo:           1           0           0           0           0           0           0           0           0           0           0           1           0           1           0
+ iteração:           3
+ Movimento:           1
+ Sequência:           1           0           0           0           0           0           0           0           0           1           0           1           0           1           0
+ Função:   37.0000000    
+ Movimento:           2
+ Sequência:           1           0           0           0           0           1           0           0           0           0           0           1           0           1           0
+ Função:   47.0000000    
+ Movimento:           3
+ Sequência:           1           0           0           0           0           0           0           1           0           0           0           1           0           1           0
+ Função:   35.0000000    
+ conjunto ótimo:           1           0           0           0           0           1           0           0           0           0           0           1           0           1           0
+ iteração:           4
+ Movimento:           1
+ Sequência:           1           0           0           0           0           1           0           0           0           1           0           1           0           1           0
+ Função:   51.0000000    
+ Movimento:           2
+ Sequência:           1           0           0           1           0           1           0           0           0           0           0           1           0           1           0
+ Função:   57.0000000    
+ Movimento:           3
+ Sequência:           1           0           0           0           0           1           0           0           0           0           1           1           0           1           0
+ Função:   63.0000000    
+ conjunto ótimo:           1           0           0           0           0           1           0           0           0           0           1           1           0           1           0
+ iteração:           5
+ Movimento:           1
+ Sequência:           1           0           0           0           0           1           1           0           0           0           1           1           0           1           0
+ Função:   70.0000000    
+ Movimento:           2
+ Sequência:           1           1           0           0           0           1           0           0           0           0           1           1           0           1           0
+ Função:   65.0000000    
+ Movimento:           3
+ Sequência:           1           0           0           0           0           1           0           1           0           0           1           1           0           1           0
+ Função:   65.0000000    
+ conjunto ótimo:           1           0           0           0           0           1           1           0           0           0           1           1           0           1           0
+ iteração:           6
+ Movimento:           1
+ Sequência:           1           0           0           0           0           1           1           0           1           0           1           1           0           1           0
+ Função:  -43638.0000    
+ Movimento:           2
+ Sequência:           0           0           0           0           0           1           1           0           0           0           1           1           0           1           0
+ Função:   57.0000000    
+ Movimento:           3
+ Sequência:           1           0           0           0           0           1           1           1           0           0           1           1           0           1           0
+ Função:  -40693.0000    
+ conjunto ótimo:           0           0           0           0           0           1           1           0           0           0           1           1           0           1           0
+ iteração:           7
+ Movimento:           1
+ Sequência:           0           0           0           1           0           1           1           0           0           0           1           1           0           1           0
+ Função:   67.0000000    
+ Movimento:           2
+ Sequência:           0           1           0           0           0           1           1           0           0           0           1           1           0           1           0
+ Função:   59.0000000    
+ Movimento:           3
+ Sequência:           0           1           0           0           0           1           1           0           0           0           1           1           0           1           0
+ Função:   59.0000000    
+ conjunto ótimo:           0           0           0           1           0           1           1           0           0           0           1           1           0           1           0
+ iteração:           8
+ Movimento:           1
+ Sequência:           0           1           0           1           0           1           1           0           0           0           1           1           0           1           0
+ Função:   69.0000000    
+ Movimento:           2
+ Sequência:           0           0           0           1           0           1           1           0           0           0           1           1           1           1           0
+ Função:   84.0000000    
+ Movimento:           3
+ Sequência:           0           0           0           1           0           1           1           0           1           0           1           1           0           1           0
+ Função:   69.0000000    
+ conjunto ótimo:           0           0           0           1           0           1           1           0           0           0           1           1           1           1           0
+ iteração:           9
+ Movimento:           1
+ Sequência:           0           0           0           1           0           1           1           0           0           1           1           1           1           1           0
+ Função:  -41452.0000    
+ Movimento:           2
+ Sequência:           0           1           0           1           0           1           1           0           0           0           1           1           1           1           0
+ Função:   86.0000000    
+ Movimento:           3
+ Sequência:           0           0           0           1           0           1           1           0           1           0           1           1           1           1           0
+ Função:  -43779.0000    
+ conjunto ótimo:           0           1           0           1           0           1           1           0           0           0           1           1           1           1           0
+ iteração:          10
+ Movimento:           1
+ Sequência:           1           1           0           1           0           1           1           0           0           0           1           1           1           1           0
+ Função:  -48106.0000    
+ Movimento:           2
+ Sequência:           0           1           0           1           0           1           1           0           1           0           1           1           1           1           0
+ Função:  -47032.0000    
+ Movimento:           3
+ Sequência:           0           1           0           1           0           1           1           0           1           0           1           1           1           1           0
+ Função:  -47032.0000    
+ conjunto ótimo:           0           1           0           1           0           1           1           0           1           0           1           1           1           1           0
+ Melhor sequência:           0           1           0           1           0           1           1           0           0           0           1           1           1           1           0
