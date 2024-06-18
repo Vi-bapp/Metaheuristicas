@@ -1,0 +1,46 @@
+ Parâmetros inciais
+ T   10.0000000    
+ Taxa de aprendizado  0.899999976    
+ Solução inicial           1           9           7          10           3           4           8           5           2           6           1
+ Função da solução inicial:   6.12931856E+25
+ Iteração:           1
+ Tentativa:           1
+ Nova solução =           1           9           7           4           3          10           8           5           2           6           1
+ Distância da solução com perturbação:   51.8016777    
+ Valor aleatório  0.109245479    
+ Probabilidade:         Infinity
+ Delta E =  -6.12931856E+25
+ Atualizaçã da temperatura:   9.00000000    
+ Número de sucessos:           1
+ O número máximo de sucessos ou tentativas da iteração foi alcançado.
+ Iteração:           2
+ Tentativa:           1
+ Nova solução =           1           5           7           4           3          10           8           9           2           6           1
+ Distância da solução com perturbação:   54.0501556    
+ Valor aleatório  0.490265608    
+ Probabilidade:  0.778932512    
+ Delta E =   2.24847794    
+ Atualizaçã da temperatura:   8.09999943    
+ Número de sucessos:           1
+ O número máximo de sucessos ou tentativas da iteração foi alcançado.
+ Iteração:           3
+ Tentativa:           1
+ Nova solução =           6           5           7           4           3          10           8           9           2           1           6
+ Distância da solução com perturbação:   48.3730888    
+ Valor aleatório  0.724033892    
+ Probabilidade:   2.01551032    
+ Delta E =  -5.67706680    
+ Atualizaçã da temperatura:   7.28999949    
+ Número de sucessos:           1
+ O número máximo de sucessos ou tentativas da iteração foi alcançado.
+ Iteração:           4
+ Tentativa:           1
+ Nova solução =           3           5           7           4           6          10           8           9           2           1           3
+ Distância da solução com perturbação:   47.9817810    
+ Valor aleatório  0.297876239    
+ Probabilidade:   1.05514407    
+ Delta E = -0.391307831    
+ Atualizaçã da temperatura:   6.56099939    
+ Número de sucessos:           1
+ O número máximo de sucessos ou tentativas da iteração foi alcançado.
+ Melhor solução:           1           9           7          10           3           4           8           5           2           6           1

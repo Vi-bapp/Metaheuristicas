@@ -1,0 +1,56 @@
+ Valores iniciais do programa
+ Peso total da mochila         275
+ Numero maximo de tentativas           3
+ Número maximo de sucessos aceitos           1
+ Temperatura inicial do problema   19.0000000    
+ Taxa de aprendizagem alpha  0.899999976    
+ Valor dos objetos          13           2          20          10           7          14           7           2           2           4          16          17          17           3          21
+ Peso dos objetos          63          21           2          32          13          80          19          37          56          41          14           8          32          42           7
+ Solução inicial           0           1           1           1           0           0           0           0           1           1           1           0           1           1           1
+ Função da solução inicial   95.0000000    
+ Iteração           1
+ Numero de tentativas           1
+ Troca item           3
+ Nova solução           0           1           0           1           0           0           0           0           1           1           1           0           1           1           1
+ Função da nova solução   75.0000000    
+ Valor aleatório da tentativa  0.138212204    
+ Delta E  -20.0000000    
+ Probabilidade   2.86518121    
+ Numero de sucessos           1
+ Atualização da temperatura   17.1000004    
+ Número máximo de sucessos ou tentativas da iteração alcançado
+ Iteração           2
+ Numero de tentativas           1
+ Troca item          11
+ Nova solução           0           1           0           1           0           0           0           0           1           1           0           0           1           1           1
+ Função da nova solução   59.0000000    
+ Valor aleatório da tentativa  0.643553734    
+ Delta E  -16.0000000    
+ Probabilidade   2.54892707    
+ Numero de sucessos           1
+ Atualização da temperatura   15.3900003    
+ Número máximo de sucessos ou tentativas da iteração alcançado
+ Iteração           3
+ Numero de tentativas           1
+ Troca item           1
+ Nova solução           1           1           0           1           0           0           0           0           1           1           0           0           1           1           1
+ Função da nova solução  -2873.00000    
+ Valor aleatório da tentativa   8.63991976E-02
+ Delta E  -2932.00000    
+ Probabilidade         Infinity
+ Numero de sucessos           1
+ Atualização da temperatura   13.8509998    
+ Número máximo de sucessos ou tentativas da iteração alcançado
+ Iteração           4
+ Numero de tentativas           1
+ Troca item          13
+ Nova solução           1           1           0           1           0           0           0           0           1           1           0           0           0           1           1
+ Função da nova solução   55.0000000    
+ Valor aleatório da tentativa  0.512716293    
+ Delta E   2928.00000    
+ Probabilidade   0.00000000    
+ Numero de sucessos           1
+ Atualização da temperatura   12.4658995    
+ Número máximo de sucessos ou tentativas da iteração alcançado
+ Melhor solução encontrada:           0           1           1           1           0           0           0           0           1           1           1           0           1           1           1
+ Função da melhor solução:   95.0000000    
