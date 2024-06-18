@@ -1,0 +1,509 @@
+Parâmetros do programa:
+ 
+ Probabilidade de crossover:   0.7000
+ Número de iterções:  4
+ Fator de escala:   0.6451
+ População inicial:
+    -2.0000  -1.0000
+    -4.0000  -6.0000
+     6.0000   0.0000
+     4.0000  -5.0000
+     0.0000   6.0000
+     2.0000   3.0000
+ 
+iteration: 1
+ 
+ Indivíduo: 1
+ 
+  Fitness:   3.4310   4.5170   4.7206   2.5269   6.1602   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  6
+    r2:  3
+ 
+  Coordenadas do vetor teste:   1.4196  -3.0647
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.63
+     Ocorre mutação
+    Valor aleatório s: 0.57
+     Ocorre mutação
+ 
+  Novas coordenadas:   1.4196  -3.0647
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 2
+ 
+  Fitness:   3.3786   4.5170   4.7206   2.5269   6.1602   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  6
+    r2:  3
+ 
+  Coordenadas do vetor teste:   1.4196  -3.0647
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.68
+     Ocorre mutação
+    Valor aleatório s: 0.25
+     Ocorre mutação
+ 
+  Novas coordenadas:   1.4196  -3.0647
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 3
+ 
+  Fitness:   3.3786   3.3786   4.7206   2.5269   6.1602   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  2
+ 
+  Coordenadas do vetor teste:   5.6646  -6.2485
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.51
+     Ocorre mutação
+    Valor aleatório s: 0.70
+     Ocorre mutação
+ 
+  Novas coordenadas:   5.6646  -6.2485
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 4
+ 
+  Fitness:   3.3786   3.3786   3.1698   2.5269   6.1602   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  5
+    r2:  2
+ 
+  Coordenadas do vetor teste:   3.0842   0.8476
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.20
+     Ocorre mutação
+    Valor aleatório s: 0.51
+     Ocorre mutação
+ 
+  Novas coordenadas:   3.0842   0.8476
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 5
+ 
+  Fitness:   3.3786   3.3786   3.1698   2.5269   6.1602   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  3
+    r2:  4
+ 
+  Coordenadas do vetor teste:   5.0739  -5.8054
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.72
+     Não ocorre no mutação
+    Valor aleatório s: 0.22
+     Ocorre mutação
+ 
+  Novas coordenadas:   0.0000  -5.8054
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 6
+ 
+  Fitness:   3.3786   3.3786   3.1698   2.5269   3.7269   4.5193
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  2
+ 
+  Coordenadas do vetor teste:   4.0000  -5.0000
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.18
+     Ocorre mutação
+    Valor aleatório s: 0.11
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -5.0000
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Vetor de coordenadas atualizado:
+   1.4196  -3.0647
+   1.4196  -3.0647
+   5.6646  -6.2485
+   4.0000  -5.0000
+   0.0000  -5.8054
+   4.0000  -5.0000
+ 
+iteration: 2
+ 
+ Indivíduo: 1
+ 
+  Fitness:   3.3786   3.3786   3.1698   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  2
+    r2:  6
+ 
+  Coordenadas do vetor teste:   2.3354  -3.7515
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.36
+     Ocorre mutação
+    Valor aleatório s: 0.66
+     Ocorre mutação
+ 
+  Novas coordenadas:   2.3354  -3.7515
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 2
+ 
+  Fitness:   3.1517   3.3786   3.1698   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  6
+    r2:  5
+ 
+  Coordenadas do vetor teste:   6.5804  -4.4804
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.39
+     Ocorre mutação
+    Valor aleatório s: 0.96
+     Não ocorre no mutação
+ 
+  Novas coordenadas:   6.5804  -3.0647
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 3
+ 
+  Fitness:   3.1517   2.6829   3.1698   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  4
+ 
+  Coordenadas do vetor teste:   2.9261  -4.1946
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.09
+     Ocorre mutação
+    Valor aleatório s: 0.59
+     Ocorre mutação
+ 
+  Novas coordenadas:   2.9261  -4.1946
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 4
+ 
+  Fitness:   3.1517   2.6829   2.8799   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  6
+ 
+  Coordenadas do vetor teste:   2.9261  -4.1946
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.20
+     Ocorre mutação
+    Valor aleatório s: 0.09
+     Ocorre mutação
+ 
+  Novas coordenadas:   2.9261  -4.1946
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 5
+ 
+  Fitness:   3.1517   2.6829   2.8799   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  4
+ 
+  Coordenadas do vetor teste:   2.9261  -4.1946
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.21
+     Ocorre mutação
+    Valor aleatório s: 0.92
+     Não ocorre no mutação
+ 
+  Novas coordenadas:   2.9261  -5.8054
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 6
+ 
+  Fitness:   3.1517   2.6829   2.8799   2.5269   3.7269   2.5269
+ 
+  Valores de r1 e r2:
+    r1:  3
+    r2:  5
+ 
+  Coordenadas do vetor teste:   5.8877  -3.9609
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.80
+     Não ocorre no mutação
+    Valor aleatório s: 0.43
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -3.9609
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Vetor de coordenadas atualizado:
+   2.3354  -3.7515
+   6.5804  -3.0647
+   2.9261  -4.1946
+   4.0000  -5.0000
+   0.0000  -5.8054
+   4.0000  -3.9609
+ 
+iteration: 3
+ 
+ Indivíduo: 1
+ 
+  Fitness:   3.1517   2.6829   2.8799   2.5269   3.7269   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  6
+ 
+  Coordenadas do vetor teste:   4.0000  -4.6312
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.29
+     Ocorre mutação
+    Valor aleatório s: 0.45
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -4.6312
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 2
+ 
+  Fitness:   2.2359   2.6829   2.8799   2.5269   3.7269   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  6
+ 
+  Coordenadas do vetor teste:   4.0000  -4.6312
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.34
+     Ocorre mutação
+    Valor aleatório s: 0.62
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -4.6312
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 3
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   3.7269   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  2
+ 
+  Coordenadas do vetor teste:   4.0000  -4.1988
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.97
+     Não ocorre no mutação
+    Valor aleatório s: 0.15
+     Ocorre mutação
+ 
+  Novas coordenadas:   2.9261  -4.1988
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 4
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   3.7269   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  5
+    r2:  1
+ 
+  Coordenadas do vetor teste:   1.4196  -4.7183
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.01
+     Ocorre mutação
+    Valor aleatório s: 0.50
+     Ocorre mutação
+ 
+  Novas coordenadas:   1.4196  -4.7183
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 5
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   3.7269   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  2
+ 
+  Coordenadas do vetor teste:   4.0000  -3.9609
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.27
+     Ocorre mutação
+    Valor aleatório s: 0.13
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -3.9609
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 6
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   1.7683   1.7683
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  3
+ 
+  Coordenadas do vetor teste:   4.6927  -4.2425
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.45
+     Ocorre mutação
+    Valor aleatório s: 0.52
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.6927  -4.2425
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Vetor de coordenadas atualizado:
+   4.0000  -4.6312
+   4.0000  -4.6312
+   2.9261  -4.1946
+   4.0000  -5.0000
+   4.0000  -3.9609
+   4.6927  -4.2425
+ 
+iteration: 4
+ 
+ Indivíduo: 1
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   1.7683   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  3
+ 
+  Coordenadas do vetor teste:   5.3855  -4.7621
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.82
+     Não ocorre no mutação
+    Valor aleatório s: 0.50
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -4.7621
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Indivíduo: 2
+ 
+  Fitness:   2.2359   2.2359   2.8799   2.5269   1.7683   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  5
+ 
+  Coordenadas do vetor teste:   4.6927  -4.9129
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.40
+     Ocorre mutação
+    Valor aleatório s: 0.95
+     Não ocorre no mutação
+ 
+  Novas coordenadas:   4.6927  -4.6312
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 3
+ 
+  Fitness:   2.2359   1.9929   2.8799   2.5269   1.7683   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  2
+ 
+  Coordenadas do vetor teste:   4.2459  -4.4804
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.14
+     Ocorre mutação
+    Valor aleatório s: 0.20
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.2459  -4.4804
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 4
+ 
+  Fitness:   2.2359   1.9929   1.9809   2.5269   1.7683   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  5
+    r2:  6
+ 
+  Coordenadas do vetor teste:   4.2459  -4.0608
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.08
+     Ocorre mutação
+    Valor aleatório s: 0.01
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.2459  -4.0608
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 5
+ 
+  Fitness:   2.2359   1.9929   1.9809   1.6883   1.7683   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  4
+    r2:  3
+ 
+  Coordenadas do vetor teste:   4.2459  -3.7902
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.99
+     Não ocorre no mutação
+    Valor aleatório s: 0.15
+     Ocorre mutação
+ 
+  Novas coordenadas:   4.0000  -3.7902
+    Fitness anterior menor do que coordenadas novas, portanto atualiza-se as coordenadas
+ 
+ Indivíduo: 6
+ 
+  Fitness:   2.2359   1.9929   1.9809   1.6883   1.6882   1.6989
+ 
+  Valores de r1 e r2:
+    r1:  1
+    r2:  2
+ 
+  Coordenadas do vetor teste:   3.5531  -3.7902
+ 
+  Testar probabilidade de ocorrer mutação:
+    Valor aleatório s: 0.54
+     Ocorre mutação
+    Valor aleatório s: 0.52
+     Ocorre mutação
+ 
+  Novas coordenadas:   3.5531  -3.7902
+    Fitness anterior maior do que coordenadas, portanto não se atualiza as coordenadas
+ 
+ Vetor de coordenadas atualizado:
+   4.0000  -4.6312
+   4.6927  -4.6312
+   4.2459  -4.4804
+   4.2459  -4.0608
+   4.0000  -3.7902
+   4.6927  -4.2425
+ 
