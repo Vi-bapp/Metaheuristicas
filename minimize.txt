@@ -1,0 +1,135 @@
+Solução inicial do problema:
+  Solução: 1:  0  1  1  1  0
+  Solução: 2:  0  1  0  1  1
+  Solução: 3:  0  0  0  0  1
+  Solução: 4:  1  0  1  1  1
+ 
+Número de iterações a serem feitas:  4
+  Iteração:  1
+ 
+  Calcular o fitness da solução:
+    Solução  1:       8581.0000
+    Solução  2:       3073.0000
+    Solução  3:       -207.0000
+    Solução  4:      56641.0000
+ 
+  Probabilidade das soluções
+    Probabilidade da solução  1:  30.3262
+    Probabilidade da solução  2:  33.8017
+    Probabilidade da solução  3:  35.8714
+    Probabilidade da solução  4:   0.0006
+ 
+  Permutar as soluções de acordo com as probabilidades:
+    Permutar 1 com 2
+    Permutar 1 com 3
+ 
+  Nova geração de soluções:
+    Solução  1:  0  1  0  1  0
+    Solução  2:  0  1  1  1  1
+    Solução  3:  0  1  1  1  0
+    Solução  4:  0  0  0  0  1
+ 
+  Mutações nas soluções:
+    Ocorre mutação em 1
+    Novo conjunto de solução em 1:  0  1  0  0  0
+    Ocorre mutação em 2
+    Novo conjunto de solução em 2:  0  1  1  1  1
+    Ocorre mutação em 4
+    Novo conjunto de solução em 4:  0  0  0  0  1
+  Iteração:  2
+ 
+  Calcular o fitness da solução:
+    Solução  1:        661.0000
+    Solução  2:      11329.0000
+    Solução  3:       8581.0000
+    Solução  4:       -207.0000
+ 
+  Probabilidade das soluções
+    Probabilidade da solução  1:  42.7512
+    Probabilidade da solução  2:   0.0040
+    Probabilidade da solução  3:  11.0154
+    Probabilidade da solução  4:  46.2294
+ 
+  Permutar as soluções de acordo com as probabilidades:
+    Permutar 4 com 1
+    Permutar 1 com 4
+ 
+  Nova geração de soluções:
+    Solução  1:  0  1  0  0  1
+    Solução  2:  0  0  0  0  0
+    Solução  3:  0  0  0  0  1
+    Solução  4:  0  1  0  0  0
+ 
+  Mutações nas soluções:
+    Ocorre mutação em 3
+    Novo conjunto de solução em 3:  0  0  0  0  1
+    Ocorre mutação em 4
+    Novo conjunto de solução em 4:  0  1  0  0  0
+  Iteração:  3
+ 
+  Calcular o fitness da solução:
+    Solução  1:       1201.0000
+    Solução  2:       -491.0000
+    Solução  3:       -207.0000
+    Solução  4:        661.0000
+ 
+  Probabilidade das soluções
+    Probabilidade da solução  1:   0.0274
+    Probabilidade da solução  2:  46.4599
+    Probabilidade da solução  3:  38.6663
+    Probabilidade da solução  4:  14.8463
+ 
+  Permutar as soluções de acordo com as probabilidades:
+    Permutar 4 com 2
+    Permutar 3 com 2
+ 
+  Nova geração de soluções:
+    Solução  1:  0  0  0  0  0
+    Solução  2:  0  1  0  0  0
+    Solução  3:  0  0  0  0  1
+    Solução  4:  0  0  0  0  0
+ 
+  Mutações nas soluções:
+    Ocorre mutação em 1
+    Novo conjunto de solução em 1:  0  0  0  0  0
+    Ocorre mutação em 2
+    Novo conjunto de solução em 2:  0  1  0  0  0
+    Ocorre mutação em 3
+    Novo conjunto de solução em 3:  0  0  0  0  1
+    Ocorre mutação em 4
+    Novo conjunto de solução em 4:  0  0  0  0  0
+  Iteração:  4
+ 
+  Calcular o fitness da solução:
+    Solução  1:       -491.0000
+    Solução  2:        661.0000
+    Solução  3:       -207.0000
+    Solução  4:       -491.0000
+ 
+  Probabilidade das soluções
+    Probabilidade da solução  1:  36.3035
+    Probabilidade da solução  2:   0.0315
+    Probabilidade da solução  3:  27.3615
+    Probabilidade da solução  4:  36.3035
+ 
+  Permutar as soluções de acordo com as probabilidades:
+    Permutar 1 com 4
+    Permutar 4 com 1
+ 
+  Nova geração de soluções:
+    Solução  1:  0  0  0  0  0
+    Solução  2:  0  0  0  0  0
+    Solução  3:  0  0  0  0  0
+    Solução  4:  0  0  0  0  0
+ 
+  Mutações nas soluções:
+    Ocorre mutação em 1
+    Novo conjunto de solução em 1:  0  0  0  0  0
+    Ocorre mutação em 2
+    Novo conjunto de solução em 2:  0  0  0  0  0
+    Ocorre mutação em 3
+    Novo conjunto de solução em 3:  0  0  0  0  0
+ 
+ 
+Melhor solução encontrada: 0 1 1 1 0
+Valor da melhor solução:       -491.0000

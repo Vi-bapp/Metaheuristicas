@@ -1,0 +1,150 @@
+Soluções iniciais do programa:
+ 
+  Solução 1:   1  2  6  4  8  5  3 10  7  9  1
+  Solução 2:   1  9  8 10  7  6  3  4  5  2  1
+  Solução 3:   8  1  5  2 10  4  3  6  9  7  8
+  Solução 4:   1  9  3  7  6  2  8  4 10  5  1
+ 
+Número de iterações a serem feitas 4
+ 
+geração 1:
+ 
+  Distância das rotas:
+    Solução 1:   49.5810
+    Solução 1:   43.2410
+    Solução 1:   51.8832
+    Solução 1:   59.0337
+ 
+  Probabilidades:
+    Solução: 1:  28.7194%
+    Solução: 2:  46.1389%
+    Solução: 3:  22.3941%
+    Solução: 4:   2.7476%
+ 
+  Permutar soluções para gerar nova geração:
+    Permutar 3 com 1
+    Permutar 1 com 2
+ 
+  Novas soluções geradas:
+    Solução 1: 1  2  6  4  8  5  3 10  7  9
+ 1
+    Solução 2: 8  1  5  2 10  4  3  6  9  7
+ 8
+    Solução 3: 1  9  8 10  7  6  3  4  5  2
+ 1
+    Solução 4: 1  2  6  4  8  5  3 10  7  9
+ 1
+ 
+  Mutação nas soluções:
+    Ocorre mutação em: 1
+    Nova solução gerada:  1  2  6  4  9  5  3 10  7  8
+ 1
+geração 2:
+ 
+  Distância das rotas:
+    Solução 2:   54.1733
+    Solução 2:   51.8832
+    Solução 2:   43.2410
+    Solução 2:   49.5810
+ 
+  Probabilidades:
+    Solução: 1:   4.5841%
+    Solução: 2:  15.0821%
+    Solução: 3:  54.6985%
+    Solução: 4:  25.6353%
+ 
+  Permutar soluções para gerar nova geração:
+    Permutar 2 com 3
+    Permutar 2 com 4
+ 
+  Novas soluções geradas:
+    Solução 1: 1  9  8 10  7  6  3  4  5  2
+ 1
+    Solução 2: 8  1  5  2 10  4  3  6  9  7
+ 8
+    Solução 3: 1  2  6  4  8  5  3 10  7  9
+ 1
+    Solução 4: 8  1  5  2 10  4  3  6  9  7
+ 8
+ 
+  Mutação nas soluções:
+    Ocorre mutação em: 4
+    Nova solução gerada:  8  1  5  2 10  4  3  7  9  6
+ 8
+geração 3:
+ 
+  Distância das rotas:
+    Solução 3:   43.2410
+    Solução 3:   51.8832
+    Solução 3:   49.5810
+    Solução 3:   57.7892
+ 
+  Probabilidades:
+    Solução: 1:  47.6027%
+    Solução: 2:  21.1437%
+    Solução: 3:  28.1920%
+    Solução: 4:   3.0616%
+ 
+  Permutar soluções para gerar nova geração:
+    Permutar 1 com 2
+    Permutar 1 com 4
+ 
+  Novas soluções geradas:
+    Solução 1: 8  1  5  2 10  4  3  6  9  7
+ 8
+    Solução 2: 1  9  8 10  7  6  3  4  5  2
+ 1
+    Solução 3: 8  1  5  2 10  4  3  7  9  6
+ 8
+    Solução 4: 1  9  8 10  7  6  3  4  5  2
+ 1
+ 
+  Mutação nas soluções:
+    Ocorre mutação em: 2
+    Nova solução gerada:  1  9  2 10  7  6  3  4  5  8
+ 1
+    Ocorre mutação em: 4
+    Nova solução gerada:  1  9  8 10  7  4  3  6  5  2
+ 1
+geração 4:
+ 
+  Distância das rotas:
+    Solução 4:   51.8832
+    Solução 4:   46.4146
+    Solução 4:   57.7892
+    Solução 4:   44.7718
+ 
+  Probabilidades:
+    Solução: 1:  20.1353%
+    Solução: 2:  36.0796%
+    Solução: 3:   2.9156%
+    Solução: 4:  40.8695%
+ 
+  Permutar soluções para gerar nova geração:
+    Permutar 2 com 4
+    Permutar 4 com 2
+ 
+  Novas soluções geradas:
+    Solução 1: 1  9  8 10  7  4  3  6  5  2
+ 1
+    Solução 2: 1  9  2 10  7  6  3  4  5  8
+ 1
+    Solução 3: 1  9  2 10  7  6  3  4  5  8
+ 1
+    Solução 4: 1  9  8 10  7  4  3  6  5  2
+ 1
+ 
+  Mutação nas soluções:
+    Ocorre mutação em: 1
+    Nova solução gerada:  1  7  8 10  9  4  3  6  5  2
+ 1
+    Ocorre mutação em: 2
+    Nova solução gerada:  1  9  2 10  7  6  5  4  3  8
+ 1
+    Ocorre mutação em: 4
+    Nova solução gerada:  1  9  8  2  7  4  3  6  5 10
+ 1
+ 
+Menor distância encontrada:  43.2410
+Melhor solução encontrada:  1  9  8 10  7  6  3  4  5  2
+ 1
