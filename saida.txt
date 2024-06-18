@@ -1,0 +1,126 @@
+ Treinamento da rede
+ iteração           1
+ Conjunto           1
+ diferenças euclidianas =  0.305000007      0.325000018      0.425000012      0.605000019      0.125000015      0.145000011      0.245000035      0.425000012       2.50000004E-02   4.50000018E-02  0.145000011      0.325000018       4.99999942E-03   2.50000004E-02  0.125000015      0.305000007    
+ Neurônio vencedor =          13
+ A classe do conjunto de entrada é igual a classe dos pesos
+ Pesos w atualizados =  0.204999998    
+ Pesos w atualizados =  0.204999998    
+ Conjunto           2
+ diferenças euclidianas =  0.242500022      0.202500015      0.242500022      0.362500012      0.102500021       6.25000149E-02  0.102500021      0.222500026       4.25000042E-02   2.50000111E-03   4.25000079E-02  0.162500009       5.90500012E-02   2.24999972E-02   6.25000000E-02  0.182500005    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.405000001    
+ Conjunto           3
+ diferenças euclidianas =  0.162500024      0.122500017      0.162500024      0.282500029       6.25000149E-02   2.25000102E-02   6.25000149E-02  0.182500020       4.25000004E-02   2.02499889E-03   4.25000042E-02  0.162500009       9.80499983E-02   6.24999925E-02  0.102499999      0.222499996    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.400500000    
+ Conjunto           4
+ diferenças euclidianas =  0.182500035       6.25000149E-02   2.25000102E-02   6.25000075E-02  0.162500024       4.25000004E-02   2.49999529E-03   4.24999893E-02  0.222500011      0.102250248       6.24999851E-02  0.102499977      0.354050040      0.242499992      0.202499986      0.242499977    
+ Neurônio vencedor =           7
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.600000024    
+ Pesos w atualizados =  0.595000029    
+ Conjunto           5
+ diferenças euclidianas =  0.302500010      0.122499995       2.24999934E-02   2.50000111E-03  0.342500001      0.162499994       6.45249858E-02   4.24999967E-02  0.462500036      0.282100260      0.182500005      0.162500009      0.651050091      0.482500017      0.382499993      0.362500012    
+ Neurônio vencedor =           4
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.805000007    
+ Pesos w atualizados =  0.800000012    
+ iteração           2
+ Conjunto           1
+ diferenças euclidianas =  0.305000007      0.325000018      0.425000012      0.610525012      0.125000015      0.145000011      0.241525039      0.425000012       2.50000004E-02   4.51502502E-02  0.145000011      0.325000018       4.05000011E-03   2.50000004E-02  0.125000015      0.305000007    
+ Neurônio vencedor =          13
+ A classe do conjunto de entrada é igual a classe dos pesos
+ Pesos w atualizados =  0.209274992    
+ Pesos w atualizados =  0.209274992    
+ Conjunto           2
+ diferenças euclidianas =  0.242500022      0.202500015      0.242500022      0.366524994      0.102500021       6.25000149E-02  0.100025028      0.222500026       4.25000042E-02   2.55025062E-03   4.25000079E-02  0.162500009       5.61795533E-02   2.24999972E-02   6.25000000E-02  0.182500005    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.405297488    
+ Conjunto           3
+ diferenças euclidianas =  0.162500024      0.122500017      0.162500024      0.286525011       6.25000149E-02   2.25000102E-02   6.10250160E-02  0.182500020       4.25000004E-02   1.99831347E-03   4.25000042E-02  0.162500009       9.43245515E-02   6.24999925E-02  0.102499999      0.222499996    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.401050746    
+ Conjunto           4
+ diferenças euclidianas =  0.182500035       6.25000149E-02   2.25000102E-02   6.45250008E-02  0.162500024       4.25000004E-02   3.02499416E-03   4.24999893E-02  0.222500011      0.101975724       6.24999851E-02  0.102499977      0.346904516      0.242499992      0.202499986      0.242499977    
+ Neurônio vencedor =           7
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.600000024    
+ Pesos w atualizados =  0.589775026    
+ Conjunto           5
+ diferenças euclidianas =  0.302500010      0.122499995       2.24999934E-02   3.02500068E-03  0.342500001      0.162499994       6.66945428E-02   4.24999967E-02  0.462500036      0.281660497      0.182500005      0.162500009      0.641339540      0.482500017      0.382499993      0.362500012    
+ Neurônio vencedor =           4
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.810225010    
+ Pesos w atualizados =  0.800000012    
+ iteração           3
+ Conjunto           1
+ diferenças euclidianas =  0.305000007      0.325000018      0.425000012      0.616352081      0.125000015      0.145000011      0.237947077      0.425000012       2.50000004E-02   4.53163311E-02  0.145000011      0.325000018       3.31705250E-03   2.50000004E-02  0.125000015      0.305000007    
+ Neurônio vencedor =          13
+ A classe do conjunto de entrada é igual a classe dos pesos
+ Pesos w atualizados =  0.212950423    
+ Pesos w atualizados =  0.212950423    
+ Conjunto           2
+ diferenças euclidianas =  0.242500022      0.202500015      0.242500022      0.370784581      0.102500021       6.25000149E-02   9.74920690E-02  0.222500026       4.25000042E-02   2.60617933E-03   4.25000079E-02  0.162500009       5.37701324E-02   2.24999972E-02   6.25000000E-02  0.182500005    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.405658066    
+ Conjunto           3
+ diferenças euclidianas =  0.162500024      0.122500017      0.162500024      0.290784568       6.25000149E-02   2.25000102E-02   5.95370680E-02  0.182500020       4.25000004E-02   1.96620612E-03   4.25000042E-02  0.162500009       9.11800414E-02   6.24999925E-02  0.102499999      0.222499996    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.401656210    
+ Conjunto           4
+ diferenças euclidianas =  0.182500035       6.25000149E-02   2.25000102E-02   6.66945577E-02  0.162500024       4.25000004E-02   3.62704461E-03   4.24999893E-02  0.222500011      0.101674631       6.24999851E-02  0.102499977      0.340819716      0.242499992      0.202499986      0.242499977    
+ Neurônio vencedor =           7
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.600000024    
+ Pesos w atualizados =  0.584339738    
+ Conjunto           5
+ diferenças euclidianas =  0.302500010      0.122499995       2.24999934E-02   3.62705183E-03  0.342500001      0.162499994       6.90093488E-02   4.24999967E-02  0.462500036      0.281177789      0.182500005      0.162500009      0.633049488      0.482500017      0.382499993      0.362500012    
+ Neurônio vencedor =           4
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.815660298    
+ Pesos w atualizados =  0.800000012    
+ iteração           4
+ Conjunto           1
+ diferenças euclidianas =  0.305000007      0.325000018      0.425000012      0.622471571      0.125000015      0.145000011      0.234283075      0.425000012       2.50000004E-02   4.54996079E-02  0.145000011      0.325000018       2.74534221E-03   2.50000004E-02  0.125000015      0.305000007    
+ Neurônio vencedor =          13
+ A classe do conjunto de entrada é igual a classe dos pesos
+ Pesos w atualizados =  0.216126963    
+ Pesos w atualizados =  0.216126963    
+ Conjunto           2
+ diferenças euclidianas =  0.242500022      0.202500015      0.242500022      0.375273496      0.102500021       6.25000149E-02   9.49151218E-02  0.222500026       4.25000042E-02   2.66836467E-03   4.25000079E-02  0.162500009       5.17312847E-02   2.24999972E-02   6.25000000E-02  0.182500005    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.406085074    
+ Conjunto           3
+ diferenças euclidianas =  0.162500024      0.122500017      0.162500024      0.295273483       6.25000149E-02   2.25000102E-02   5.80471754E-02  0.182500020       4.25000004E-02   1.92851969E-03   4.25000042E-02  0.162500009       8.85058939E-02   6.24999925E-02  0.102499999      0.222499996    
+ Neurônio vencedor =          10
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.400000006    
+ Pesos w atualizados =  0.402319908    
+ Conjunto           4
+ diferenças euclidianas =  0.182500035       6.25000149E-02   2.25000102E-02   6.90093637E-02  0.162500024       4.25000004E-02   4.31126682E-03   4.24999893E-02  0.222500011      0.101345420       6.24999851E-02  0.102499977      0.335604310      0.242499992      0.202499986      0.242499977    
+ Neurônio vencedor =           7
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.600000024    
+ Pesos w atualizados =  0.578710198    
+ Conjunto           5
+ diferenças euclidianas =  0.302500010      0.122499995       2.24999934E-02   4.31127474E-03  0.342500001      0.162499994       7.14691728E-02   4.24999967E-02  0.462500036      0.280649453      0.182500005      0.162500009      0.625928164      0.482500017      0.382499993      0.362500012    
+ Neurônio vencedor =           4
+ A classe do conjunto de entrada é diferente da classe dos pesos
+ Pesos w atualizados =  0.821289837    
+ Pesos w atualizados =  0.800000012    
+ w =  0.200000003      0.400000006      0.600000024      0.821289837      0.200000003      0.400000006      0.600000024      0.800000012      0.200000003      0.400000006      0.600000024      0.800000012      0.216126963      0.400000006      0.600000024      0.800000012      0.800000012      0.800000012      0.800000012      0.800000012      0.600000024      0.600000024      0.578710198      0.600000024      0.400000006      0.402319908      0.400000006      0.400000006      0.216126963      0.200000003      0.200000003      0.200000003    
