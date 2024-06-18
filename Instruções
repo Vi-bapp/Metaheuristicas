@@ -1,0 +1,8 @@
+Dentro dos branchs existem diversas metaheur[isticas desenvolidas ao longo do curso.
+Para acessar os arquivos é só acessar a branch desejada de acordo com o tipo de 
+alogoritmo que foi utilizado para a solução dos problemas.
+
+As RNAs foram utilizadas para resolução de problemas de classificação e na SOM 
+foi desenvolvida a solução para o problema do caixeiro viajente. Nas demais 
+metaheurísticas foram desenvolvidos problemas de minimização e maximização de
+funções contínuas, problema do caixeiro vianjante e o problema da mochila.
