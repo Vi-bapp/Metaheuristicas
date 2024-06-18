@@ -1,0 +1,80 @@
+ Dados iniciais das partículas
+           1 :           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+           2 :           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+           3 :           0           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Contantes e dados do programa:
+ w:  0.200000003    
+ Eta_1:  0.300000012    
+ Eta_2:  0.500000000    
+ Peso dos objetos:          63          21           2          32          13          80          19          37          56          41          14           8          32          42           7
+ Valor dos objetos:          13           2          20          10           7          14           7           2           2           4          16          17          17           3          21
+ Valor aleátorio 1:  0.337308288    
+ Valor aleátorio 2:  0.201527119    
+ Iteração:           0
+ fitness           1 :   185.000000    
+ fitness           2 :   319.000000    
+ fitness           3 :   117.000000    
+ gbest:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           1 :
+ pbest da partícula:           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          15
+ Nova configuração da partícula           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ partícula           2 :
+ pbest da partícula:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           3 :
+ pbest da partícula:           0           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          14
+ Nova configuração da partícula           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Iteração:           1
+ fitness           1 :   185.000000    
+ fitness           2 :   319.000000    
+ fitness           3 :   180.000000    
+ gbest:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           1 :
+ pbest da partícula:           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          14
+ Nova configuração da partícula           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ partícula           2 :
+ pbest da partícula:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           3 :
+ pbest da partícula:           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          12
+ Nova configuração da partícula           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Iteração:           2
+ fitness           1 :   185.000000    
+ fitness           2 :   319.000000    
+ fitness           3 :   180.000000    
+ gbest:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           1 :
+ pbest da partícula:           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          10
+ Nova configuração da partícula           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ partícula           2 :
+ pbest da partícula:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           3 :
+ pbest da partícula:           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:           8
+ Nova configuração da partícula           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Iteração:           3
+ fitness           1 :   185.000000    
+ fitness           2 :   319.000000    
+ fitness           3 :   180.000000    
+ gbest:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           1 :
+ pbest da partícula:           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:           9
+ Nova configuração da partícula           1           0           1           1           1           0           1           0           0           0           1           0           0           1           0
+ partícula           2 :
+ pbest da partícula:           1           1           0           1           1           1           1           1           0           0           1           1           1           0           0
+ partícula           3 :
+ pbest da partícula:           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1
+ Número de trocas a serem realizadas:           1
+ itens a serem substituídos:          11
+ Nova configuração da partícula           1           1           1           0           1           0           1           0           0           1           1           0           0           0           1

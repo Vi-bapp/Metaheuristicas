@@ -1,0 +1,267 @@
+ Parâmetros iniciais do programa:
+ w:  0.200000003    
+ Eta_1:  0.300000012    
+ Eta_2:  0.500000000    
+ Subdomínio:   5.00000000       6.00000000       8.50000000       11.0000000    
+ Termo aleatório rnd_1:  0.958195150    
+ Termo aleatório rnd_2:  0.672683120    
+ Iteração:           0
+ Partícula:           1
+ fitness:   1.28366220    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness:   2.16017032    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:   1.09798813    
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   2.20442581    
+ pbest:   11.0000000    
+ gbest:   1.09798813    
+ Particula:           1 :
+ Velocidade:  -1.31240880    
+ posição atualizada:   3.68759108    
+ Particula:           2 :
+ Velocidade:  -1.64875031    
+ posição atualizada:   4.35124969    
+ Particula:           3 :
+ Velocidade:  -2.48960423    
+ posição atualizada:   6.01039600    
+ Particula:           4 :
+ Velocidade:  -3.33045816    
+ posição atualizada:   7.66954184    
+ Iteração:           1
+ Partícula:           1
+ fitness: -0.117091060    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness:  0.516909659    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:   2.16510224    
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.71730423    
+ pbest:   11.0000000    
+ gbest:   1.71730423    
+ Particula:           1 :
+ Velocidade: -0.547907948    
+ posição atualizada:   3.13968325    
+ Particula:           2 :
+ Velocidade: -0.741707981    
+ posição atualizada:   3.60954165    
+ Particula:           3 :
+ Velocidade:  -1.22620797    
+ posição atualizada:   4.78418827    
+ Particula:           4 :
+ Velocidade:  -1.71070766    
+ posição atualizada:   5.95883417    
+ Iteração:           2
+ Partícula:           1
+ fitness: -0.372061491    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.170586944    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:   1.02857530    
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   2.13962460    
+ pbest:   11.0000000    
+ gbest: -0.372061491    
+ Particula:           1 :
+ Velocidade: -0.755963266    
+ posição atualizada:   2.38371992    
+ Particula:           2 :
+ Velocidade: -0.800362408    
+ posição atualizada:   2.80917931    
+ Particula:           3 :
+ Velocidade: -0.911360800    
+ posição atualizada:   3.87282753    
+ Particula:           4 :
+ Velocidade:  -1.02235842    
+ posição atualizada:   4.93647575    
+ Iteração:           3
+ Partícula:           1
+ fitness: -0.249555886    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.383421659    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:   3.02152038E-02
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.20951116    
+ pbest:   11.0000000    
+ gbest: -0.383421659    
+ Particula:           1 :
+ Velocidade: -0.329825222    
+ posição atualizada:   2.05389476    
+ Particula:           2 :
+ Velocidade: -0.316648126    
+ posição atualizada:   2.49253130    
+ Particula:           3 :
+ Velocidade: -0.283705473    
+ posição atualizada:   3.58912206    
+ Particula:           4 :
+ Velocidade: -0.250762463    
+ posição atualizada:   4.68571329    
+ Iteração:           4
+ Partícula:           1
+ fitness:  -5.37463129E-02
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.298145235    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness: -0.183694601    
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:  0.910470128    
+ pbest:   11.0000000    
+ gbest: -0.298145235    
+ Particula:           1 :
+ Velocidade:  -1.01706982E-02
+ posição atualizada:   2.04372406    
+ Particula:           2 :
+ Velocidade:   6.30176067E-03
+ posição atualizada:   2.49883318    
+ Particula:           3 :
+ Velocidade:   4.74833250E-02
+ posição atualizada:   3.63660526    
+ Particula:           4 :
+ Velocidade:   8.86644125E-02
+ posição atualizada:   4.77437782    
+ Iteração:           5
+ Partícula:           1
+ fitness:  -4.67498004E-02
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.300678134    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness: -0.152641714    
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.01682472    
+ pbest:   11.0000000    
+ gbest: -0.300678134    
+ Particula:           1 :
+ Velocidade:   5.92527986E-02
+ posição atualizada:   2.10297680    
+ Particula:           2 :
+ Velocidade:   6.61087632E-02
+ posição atualizada:   2.56494188    
+ Particula:           3 :
+ Velocidade:   8.32490921E-02
+ posição atualizada:   3.71985435    
+ Particula:           4 :
+ Velocidade:  0.100389004    
+ posição atualizada:   4.87476683    
+ Iteração:           6
+ Partícula:           1
+ fitness:  -8.68180990E-02
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.325305045    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:  -9.34431553E-02
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.13661861    
+ pbest:   11.0000000    
+ gbest: -0.325305045    
+ Particula:           1 :
+ Velocidade:   2.78925896E-02
+ posição atualizada:   2.13086939    
+ Particula:           2 :
+ Velocidade:   2.85484791E-02
+ posição atualizada:   2.59349036    
+ Particula:           3 :
+ Velocidade:   3.01884413E-02
+ posição atualizada:   3.75004292    
+ Particula:           4 :
+ Velocidade:   3.18282843E-02
+ posição atualizada:   4.90659523    
+ Iteração:           7
+ Partícula:           1
+ fitness: -0.105074227    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.334816813    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:  -7.05262423E-02
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.17430687    
+ pbest:   11.0000000    
+ gbest: -0.334816813    
+ Particula:           1 :
+ Velocidade:   1.02192163E-03
+ posição atualizada:   2.13189125    
+ Particula:           2 :
+ Velocidade:   2.87294388E-05
+ posição atualizada:   2.59351921    
+ Particula:           3 :
+ Velocidade:  -2.45463848E-03
+ posição atualizada:   3.74758816    
+ Particula:           4 :
+ Velocidade:  -4.93764877E-03
+ posição atualizada:   4.90165758    
+ Iteração:           8
+ Partícula:           1
+ fitness: -0.105735302    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.334826112    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:  -7.24178553E-02
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.16847217    
+ pbest:   11.0000000    
+ gbest: -0.334826112    
+ Particula:           1 :
+ Velocidade:  -4.99272346E-03
+ posição atualizada:   2.12689853    
+ Particula:           2 :
+ Velocidade:  -5.69635630E-03
+ posição atualizada:   2.58782291    
+ Particula:           3 :
+ Velocidade:  -7.45487213E-03
+ posição atualizada:   3.74013329    
+ Particula:           4 :
+ Velocidade:  -9.21380520E-03
+ posição atualizada:   4.89244366    
+ Iteração:           9
+ Partícula:           1
+ fitness: -0.102500021    
+ pbest:   5.00000000    
+ Partícula:           2
+ fitness: -0.332983494    
+ pbest:   6.00000000    
+ Partícula:           3
+ fitness:  -7.81320930E-02
+ pbest:   8.50000000    
+ Partícula:           4
+ fitness:   1.15757215    
+ pbest:   11.0000000    
+ gbest: -0.332983494    
+ Particula:           1 :
+ Velocidade:  -2.46149302E-03
+ posição atualizada:   2.12443709    
+ Particula:           2 :
+ Velocidade:  -2.66832113E-03
+ posição atualizada:   2.58515453    
+ Particula:           3 :
+ Velocidade:  -3.18491459E-03
+ posição atualizada:   3.73694849    
+ Particula:           4 :
+ Velocidade:  -3.70168686E-03
+ posição atualizada:   4.88874197    
