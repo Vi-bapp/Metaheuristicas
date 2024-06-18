@@ -1,0 +1,183 @@
+ conjunto:           1
+ soma dos pesos na camada intermediária
+ z* =   2.50000000      -3.00000000    
+ z =  0.924141824       4.74258736E-02
+ soma dos pesos na camada de saida
+ y* =   2.20600605    
+ y =  0.900787592    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.508866549    
+ pesos saida =   2.00819397      -2.99957943    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.498751760       1.99879849    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.00124836      -3.00000000      -3.00120163    
+ wb =   1.00124824      0.998798490    
+ conjunto:           2
+ soma dos pesos na camada intermediária
+ z* =  -1.03519773     -0.539854169    
+ z =  0.262077659      0.368221492    
+ soma dos pesos na camada de saida
+ y* =  -6.93402290E-02
+ y =  0.482671916    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.638043225    
+ pesos saida =   2.04204822      -2.95201373    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.447737575       1.91008770    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.05226254      -3.00000000      -3.08991241    
+ wb =   1.05226243      0.910087705    
+ conjunto:           3
+ soma dos pesos na camada intermediária
+ z* =   3.16549444     -0.687478960    
+ z =  0.959514916      0.334594131    
+ soma dos pesos na camada de saida
+ y* =   1.60969257    
+ y =  0.833368719    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.661182523    
+ pesos saida =   2.06425071      -2.94427156    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.445882082       1.89491951    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.05226254      -3.00000000      -3.08991241    
+ wb =   1.05226243      0.910087705    
+ conjunto:           4
+ soma dos pesos na camada intermediária
+ z* = -0.881419897     -0.659102142    
+ z =  0.292883605      0.340941340    
+ soma dos pesos na camada de saida
+ y* =  0.261943817    
+ y =  0.565114081    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.522300005    
+ pesos saida =   2.02357435      -2.99162245    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.504086077       1.98827899    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       2.99405861      -3.00000000      -2.99655294    
+ wb =  0.994058430       1.00344718    
+ Erro da iteração =  0.276948184    
+ conjunto:           1
+ soma dos pesos na camada intermediária
+ z* =   2.02608895      -3.46760559    
+ z =  0.883509099       3.02481372E-02
+ soma dos pesos na camada de saida
+ y* =   2.21965528    
+ y =  0.902000785    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.530529559    
+ pesos saida =   2.03084517      -2.99137354    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.502365947       1.98755682    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       2.99577880      -3.00000000      -2.99727511    
+ wb =  0.995778561       1.00272501    
+ conjunto:           2
+ soma dos pesos na camada intermediária
+ z* =  -1.03080344     -0.534614921    
+ z =  0.262928367      0.369441181    
+ soma dos pesos na camada de saida
+ y* =  -4.06403542E-02
+ y =  0.489841312    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.651642203    
+ pesos saida =   2.06268907      -2.94662952    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.453952014       1.90442145    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.04419279      -3.00000000      -3.08041048    
+ wb =   1.04419255      0.919589579    
+ conjunto:           3
+ soma dos pesos na camada intermediária
+ z* =   3.15498590     -0.672279596    
+ z =  0.959104717      0.337986588    
+ soma dos pesos na camada de saida
+ y* =   1.63405573    
+ y =  0.836724460    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.672833025    
+ pesos saida =   2.08301330      -2.93946719    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.452220678       1.89048398    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.04419279      -3.00000000      -3.08041048    
+ wb =   1.04419255      0.919589579    
+ conjunto:           4
+ soma dos pesos na camada intermediária
+ z* = -0.889078259     -0.650632083    
+ z =  0.291300088      0.342847139    
+ soma dos pesos na camada de saida
+ y* =  0.271826982    
+ y =  0.567541420    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.540501535    
+ pesos saida =   2.04446507      -2.98483658    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.508073628       1.97947598    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       2.98833990      -3.00000000      -2.99141860    
+ wb =  0.988339603       1.00858152    
+ Erro da iteração =  0.275215924    
+ conjunto:           1
+ soma dos pesos na camada intermediária
+ z* =   2.01999474      -3.46227741    
+ z =  0.882880509       3.04048229E-02
+ soma dos pesos na camada de saida
+ y* =   2.25476646    
+ y =  0.905060947    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.547863841    
+ pesos saida =   2.05096507      -2.98461270    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.506512284       1.97882819    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       2.98990130      -3.00000000      -2.99206638    
+ wb =  0.989900947       1.00793374    
+ conjunto:           2
+ soma dos pesos na camada intermediária
+ z* =  -1.03682947     -0.535168171    
+ z =  0.261762232      0.369312286    
+ soma dos pesos na camada de saida
+ y* =  -1.75251961E-02
+ y =  0.495618820    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.661656082    
+ pesos saida =   2.08075166      -2.94258785    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.460757524       1.90083611    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.03565598      -3.00000000      -3.07005835    
+ wb =   1.03565574      0.929941714    
+ conjunto:           3
+ soma dos pesos na camada intermediária
+ z* =   3.14196396     -0.654550552    
+ z =  0.958590925      0.341964841    
+ soma dos pesos na camada de saida
+ y* =   1.64998412    
+ y =  0.838888884    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.681307912    
+ pesos saida =   2.09958982      -2.93586755    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.459119707       1.88785326    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       3.03565598      -3.00000000      -3.07005835    
+ wb =   1.03565574      0.929941714    
+ conjunto:           4
+ soma dos pesos na camada intermediária
+ z* = -0.898632586     -0.640341997    
+ z =  0.289331585      0.345169246    
+ soma dos pesos na camada de saida
+ y* =  0.275414348    
+ y =  0.568421662    
+ Atualização dos pesos das camadas de saida
+ bias saida =  0.555459380    
+ pesos saida =   2.06317782      -2.97930670    
+ Atualização dos pesos das camadas intermediárias
+ bias camada escondida = -0.512508214       1.97260034    
+ wa = -0.500000000      0.500000000     -0.500000000      0.500000000    
+ wc =  -1.00000000       2.98226738      -3.00000000      -2.98531127    
+ wb =  0.982267261       1.01468873    
+ Erro da iteração =  0.273969322    
