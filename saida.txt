@@ -1,0 +1,59 @@
+ Treinamento da rede
+ iteração           1
+ conjunto           1
+ distância euclidiana entre pontos "d":   1.61999989    
+ distância euclidiana entre pontos "d":  0.969999969    
+ distância euclidiana entre pontos "d":  0.819999933    
+ distância euclidiana entre pontos "d":   2.00000014E-02
+ distância euclidiana entre pontos "d":  0.170000017    
+ distância euclidiana entre pontos "d":  0.819999933    
+ Neurônio vencedor do conjunto:           4
+ Correção de pesos "w":  0.991757989      0.483583003       6.76676398E-03   5.00000007E-02  0.378693879      0.939099133      0.991757989      0.963061750      0.939099133       5.00000007E-02   3.03265341E-02   6.76676398E-03
+ conjunto           2
+ distância euclidiana entre pontos "d":  0.663651824    
+ distância euclidiana entre pontos "d":  0.107008442    
+ distância euclidiana entre pontos "d":   5.66876493E-02
+ distância euclidiana entre pontos "d":  0.584999979    
+ distância euclidiana entre pontos "d":  0.624328792    
+ distância euclidiana entre pontos "d":   1.17548656    
+ Neurônio vencedor do conjunto:           3
+ Correção de pesos "w":  0.938181579      0.397582114      0.103383385       6.01501465E-02  0.371359825      0.932330608      0.978782177      0.913610756      0.869549572      0.100750729       6.19158559E-02   1.40310526E-02
+ conjunto           3
+ distância euclidiana entre pontos "d":  0.134449989    
+ distância euclidiana entre pontos "d":  0.137086123    
+ distância euclidiana entre pontos "d":  0.384698451    
+ distância euclidiana entre pontos "d":  0.768507481    
+ distância euclidiana entre pontos "d":  0.515155673    
+ distância euclidiana entre pontos "d":  0.524530888    
+ Neurônio vencedor do conjunto:           1
+ Correção de pesos "w":  0.819090784      0.489294976      0.143755019       6.60097748E-02  0.384848028      0.916609347      0.839391112      0.848829985      0.858076572      0.106238544       8.81044269E-02   6.04489520E-02
+ conjunto           4
+ distância euclidiana entre pontos "d":  0.704941928    
+ distância euclidiana entre pontos "d":  0.817049980    
+ distância euclidiana entre pontos "d":   1.16695285    
+ distância euclidiana entre pontos "d":  0.550028324    
+ distância euclidiana entre pontos "d":  0.180113554    
+ distância euclidiana entre pontos "d":   1.72518119E-02
+ Neurônio vencedor do conjunto:           6
+ Correção de pesos "w":  0.817798972      0.502047062      0.149764791      0.115677163      0.510749221      0.858304679      0.782591522      0.813991904      0.850218475       9.90496352E-02   6.13854080E-02   3.02244760E-02
+ conjunto           5
+ distância euclidiana entre pontos "d":   7.06006074E-03
+ distância euclidiana entre pontos "d":  0.158562288    
+ distância euclidiana entre pontos "d":  0.565374732    
+ distância euclidiana entre pontos "d":   1.10649371    
+ distância euclidiana entre pontos "d":  0.697067678    
+ distância euclidiana entre pontos "d":  0.594292819    
+ Neurônio vencedor do conjunto:           1
+ Correção de pesos "w":  0.858899474      0.622732401      0.200531438      0.122859851      0.526725054      0.861126125      0.791295767      0.809748650      0.846820295      0.105468817       9.17000026E-02   8.23133737E-02
+ conjunto           6
+ distância euclidiana entre pontos "d":  0.222405329    
+ distância euclidiana entre pontos "d":   5.77550232E-02
+ distância euclidiana entre pontos "d":   4.26157899E-02
+ distância euclidiana entre pontos "d":  0.708086431    
+ distância euclidiana entre pontos "d":  0.669408023    
+ distância euclidiana entre pontos "d":  0.881248713    
+ Neurônio vencedor do conjunto:           3
+ Correção de pesos "w":  0.827846825      0.555185378      0.300265729      0.141613275      0.521523952      0.856903195      0.798651516      0.837118745      0.873410106      0.159232870      0.124874651       8.98016021E-02
+ Correção da taxa de aprendizagem "alpha":   1.35914087    
+ Correção do raio "r": -0.500000000    
+ Pesos ao fina do treinamento:  0.827846825      0.555185378      0.300265729      0.141613275      0.521523952      0.856903195      0.798651516      0.837118745      0.873410106      0.159232870      0.124874651       8.98016021E-02
